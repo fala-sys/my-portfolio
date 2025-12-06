@@ -14,7 +14,8 @@ It is built using **HTML**, **CSS**, and **JavaScript**.
 ##Tech Used
 
 - HTML
-- CSS / Tailwind (if used)
+- Tailwind
 - JavaScript
 
 Feel free to explore, fork, or contribute!
+
